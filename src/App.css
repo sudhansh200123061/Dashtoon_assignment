@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+}
+
+.comic-form {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin-bottom: 20px;
+}
+
+textarea {
+  width: 20%;
+  margin: 10px;
+}
+
+button {
+  margin-top: 10px;
+}
+
+.comic-display {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.comic-panel {
+  margin: 10px;
+}
